@@ -4,7 +4,7 @@ layout: base
 
 {% for repo in site.data.repositories %}
   <div class="card-body">
-    <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}} </a></h2>
+    <h2 class="card-title"><a href="{{repo.link}}">{{repo.name}} </a> ({{ repo.tasks.size }})</h2>
     <hr/>
     <ul>
     {% for task in repo.tasks %}

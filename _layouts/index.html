@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+{% for post in site.posts %}
+<div class="card mb-4">
+  <div class="card-body">
+    <h2 class="card-title"><strong>{{ post.title }}</strong></h2>
+    <p class="card-text">{{ post.content }}</p>
+  </div>
+  <div class="card-footer text-muted">
+    Posted on {{ post.date }} by <strong> {{ post.author }} </strong>
+  </div>
+</div>
+{% endfor %}

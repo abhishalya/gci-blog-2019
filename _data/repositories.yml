@@ -1,0 +1,32 @@
+- 1:
+  name: sglyon/PlotlyJS.jl
+  link: https://github.com/sglyon/PlotlyJS.jl
+  tasks:
+    - name: Add a Pull Request labeler to Julia packages on GitHub.
+      id: 4822197269430272
+      pr: https://github.com/sglyon/PlotlyJS.jl/pull/301
+      mentors:
+        - logankilpatrick
+      organization: Julia
+
+- 2:
+  name: logankilpatrick/StackOverflow.jl
+  link: https://github.com/logankilpatrick/StackOverflow.jl
+  tasks:
+    - name: Setup docs for StackOverflow.jl using Documenter.jl
+      id: 6435936137641984
+      pr: https://github.com/logankilpatrick/StackOverflow.jl/pull/6
+      mentors:
+        - logankilpatrick
+      organization: Julia
+
+- 3:
+  name: JuliaDSP/Deconvolution.jl
+  link: https://github.com/JuliaDSP/Deconvolution.jl
+  tasks:
+    - name: Move docs from readthedocs to Documenter.jl
+      id: 5675289779109888
+      pr: https://github.com/JuliaDSP/Deconvolution.jl/pull/10
+      mentors:
+        - giordano
+      organization: Julia

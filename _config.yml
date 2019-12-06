@@ -1,0 +1,11 @@
+email: abhinavkaushlya@gmail.com
+description: My experiences of GCI 2019.
+baseurl: ""
+url: ""
+twitter_username: abhishalya
+github_username:  abhishalya
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed

@@ -1,7 +1,6 @@
 email: abhinavkaushlya@gmail.com
 description: My experiences of GCI 2019.
-baseurl: "gci-blog-2019"
-url: "https://abhishalya.github.io/gci-blog-2019/"
+baseurl: "/gci-blog-2019"
 twitter_username: abhishalya
 github_username:  abhishalya
 
@@ -9,3 +8,5 @@ github_username:  abhishalya
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+permalink: pretty

@@ -1,5 +1,5 @@
 ---
 layout: mentors
 header: Awesome Mentors.
-permalink: /mentors/
+permalink: mentors/
 ---

@@ -30,3 +30,26 @@
       mentors:
         - giordano
       organization: Julia
+
+- 4:
+  name: JuliaText/TextAnalysis.jl
+  link: https://github.com/JuliaText/TextAnalysis.jl
+  tasks:
+    - name: Implement a spam filter using Naive Bayes and TextAnalysis.jl
+      id: 5991685926944768
+      pr: # Link will be added after the contest
+      mentors:
+        - Ayushk4
+        - aviks
+      organization: Julia
+
+- 5:
+  name: invenia/PkgTemplates.jl
+  link: https://github.com/invenia/PkgTemplates.jl
+  tasks:
+    - name: Add basic GitHub actions to PkgTemplates.jl
+      id: 5991685926944768
+      pr: https://github.com/invenia/PkgTemplates.jl/pull/119
+      mentors:
+        - logankilpatrick
+      organization: Julia
